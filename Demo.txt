@@ -5,3 +5,5 @@ I am Aarthi
 I am a manual tester
 
 Writing automation script on cypress
+
+First OTP flow is completed
